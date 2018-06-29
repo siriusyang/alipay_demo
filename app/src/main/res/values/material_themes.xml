@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+	NOTE
+	This file is intended to hold all colors for the Material update. DO NOT put any colors in here
+	for any pre-Material functionality.
+
+	Once the Material update is completed, all "material_*.xml" files should be renamed to take
+	place as default resources
+
+	Use SOME inheritance as needed, but not go crazy
+-->
+
+<resources>
+
+    <!--this is default and IHG branded.  do NOT change without discussion!!
+    ALL other brand based themes are based on this!  Consider this the IHG brand or 6C-->
+    <style name="Theme.IHGMaterial" parent="Theme.AppCompat.Light.NoActionBar">
+
+
+    </style>
+
+
+</resources>
